@@ -1,3 +1,8 @@
-# My Awesome Book
+# RxJS Beyond the Basics: Operators in Depth
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Operators are the core building blocks for reacting to data in your JavaScript applications.
+
+In this course you will learn what operators are, and then take a tour of the most useful operators that RxJS has to offer.
+
+
+

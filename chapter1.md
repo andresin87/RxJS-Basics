@@ -1,3 +1,6 @@
-# First Chapter
+# Understand RxJS Operators
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+We have covered the basics of what is Observable.create, and other creation functions. Now lets finally dive into operators, which are the focus of this course. We will see how operators are simple pure functions attached to the Observable type.
+
+
+
