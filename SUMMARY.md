@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Understand RxJS Operators](chapter1.md)
+* [Understand RxJS Operators](understand-rxjs-operators.md)
 * [Use Marble Diagrams to Understand RxJS Operators](use-marble-diagrams-to-understand-rxjs-operators.md)
 * [Use RxJS mapTo and map to Transform Values Emitted by Observables](use-rxjs-mapto-and-map-to-transform-values-emitted-by-observables.md)
 * [Inspect the Behavior of Operators with RxJS do](inspect-the-behavior-of-operators-with-rxjs-do.md)
